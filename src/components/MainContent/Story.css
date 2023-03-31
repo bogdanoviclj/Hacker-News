@@ -1,0 +1,35 @@
+.icon {
+    color: rgb(155, 155, 155);
+}
+
+.news {
+    padding: 10px 0;
+}
+.title a {
+    color: tomato;
+    font-weight: bold;
+    text-decoration: none;
+    padding-left: 10px;
+}
+
+.info {
+    color: rgb(155, 155, 155);
+    font-weight: 500;
+}
+
+#user, #time {
+    color: tomato;
+}
+
+#comments {
+    border: solid rgb(42, 122, 128);
+    border-radius: 20px;
+    background-color: rgb(42, 122, 128);
+    color: white;
+    padding: 0 10px;
+    cursor: pointer;
+}
+
+span {
+    margin: 0 10px;
+}
